@@ -1,0 +1,21 @@
+# --- System Logs & Diagnostics ---
+.DS_Store
+Thumbs.db
+*.log
+vlog.*
+
+# --- Python & Environment Artifacts ---
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+
+# --- JavaScript Ecosystem ---
+frontend/node_modules/
+frontend/build/
+frontend/coverage/
+.pnp
+.pnp.js

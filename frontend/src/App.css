@@ -1,0 +1,8 @@
+/* frontend/src/App.css */
+.app-wrapper { display: flex; min-height: 100vh; background: #f8fafc; }
+.sidebar { width: 260px; background: #0f172a; color: #ffffff; display: flex; flex-direction: column; position: fixed; height: 100vh; }
+.nav-item { padding: 12px 16px; cursor: pointer; color: #94a3b8; border-radius: 6px; margin-bottom: 8px; }
+.nav-item.active { background: #1e293b; color: #ffffff; }
+.main-area { flex: 1; margin-left: 260px; display: flex; flex-direction: column; width: calc(100% - 260px); }
+.app-header { background: #ffffff; padding: 18px 32px; border-bottom: 1px solid #e2e8f0; text-align: right; }
+.content-container { padding: 32px; max-width: 1200px; margin: 0 auto; width: 100%; box-sizing: border-box; }

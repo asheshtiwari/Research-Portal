@@ -1,0 +1,7 @@
+.upload-card { background: #ffffff; border-radius: 8px; border: 1px solid #e2e8f0; width: 100%; }
+.card-header { padding: 24px 32px; border-bottom: 1px solid #e2e8f0; }
+.form-wrapper { padding: 32px; display: flex; flex-direction: column; gap: 20px; }
+.drop-zone { border: 1px dashed #cbd5e1; padding: 48px 24px; text-align: center; cursor: pointer; border-radius: 6px; background: #f8fafc; }
+.error-banner { padding: 12px; background: #fef2f2; color: #b91c1c; border-radius: 6px; font-size: 0.85rem; }
+.btn-submit { padding: 12px 24px; background: #0f172a; color: #ffffff; border: none; border-radius: 6px; font-weight: 600; cursor: pointer; align-self: flex-end; }
+.btn-submit:disabled { background: #cbd5e1; cursor: not-allowed; }
