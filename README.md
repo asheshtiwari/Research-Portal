@@ -2,7 +2,14 @@
 
 An enterprise-grade SaaS application designed to automate the extraction and analysis of financial metrics from corporate earnings transcripts. It leverages Cohere's Large Language Models to parse raw PDF documents and generates structured insights, presenting them on a dynamic, responsive React dashboard.
 
-**Live Demo:** [Insert Correct Vercel/Frontend Link Here]
+---
+
+###  Live Project
+
+*   **Live Application:** [https://research-portal-r1k20q8rw-asheshtiwaris-projects.vercel.app/](https://research-portal-r1k20q8rw-asheshtiwaris-projects.vercel.app/)
+*   **Backend API:** [https://research-portal-36cs.onrender.com](https://research-portal-36cs.onrender.com)
+
+---
 
 ##  Core Features
 
