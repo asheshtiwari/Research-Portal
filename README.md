@@ -1,4 +1,4 @@
-# AI-Powered Equity Research Portal 
+# AI-Research Portal 
 
 An enterprise-grade SaaS application designed to automate the extraction and analysis of financial metrics from corporate earnings transcripts. It leverages Cohere's Large Language Models to parse raw PDF documents and generates structured insights, presenting them on a dynamic, responsive React dashboard.
 
